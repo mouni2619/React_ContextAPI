@@ -1,3 +1,7 @@
+This project uses React's Context API to manage a shopping cart. I've built a shopping cart that shows product details like image, name,description, rating,discount and price. Users can add or remove items, and item will add to cart , the total quantity and amount,savings are updated accordingly. The cart also allows adjusting the quantity of each item, with the total price reflecting any discounts or savings. I've used the Context API hook for these functionalities, and the cart is responsive and styled using CSS and Bootstrap.
+
+# LIVE LINK
+https://65d0e5ae82ab72a1ffb10157--leafy-cannoli-a56361.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
